@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    enumerable-lazy (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  enumerable-lazy
